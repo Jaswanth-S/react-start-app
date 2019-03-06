@@ -1,0 +1,3 @@
+command to run the project 
+
+	-> npx webpack-dev-server 
